@@ -1,0 +1,101 @@
+# SUCCESS: p =        0, a =     0, b =     0
+# ERROR: expected output :  -311250, actual: p =  1228846, a =  -415, b =   750
+# SUCCESS: p =   158326, a =   526, b =   301
+# SUCCESS: p =    21644, a =    28, b =   773
+# ERROR: expected output :  -102500, actual: p =   317340, a =  -500, b =   205
+# SUCCESS: p =  -294007, a =   679, b =  -433
+# SUCCESS: p =   261356, a =   892, b =   293
+# SUCCESS: p =   394095, a =   645, b =   611
+# SUCCESS: p =   105324, a =   804, b =   131
+# SUCCESS: p =   431046, a =   622, b =   693
+# SUCCESS: p =   -45790, a =   190, b =  -241
+# SUCCESS: p =   208413, a =   249, b =   837
+# SUCCESS: p =   -20910, a =   255, b =   -82
+# ERROR: expected output :  -394918, actual: p =  1737050, a =  -758, b =   521
+# SUCCESS: p =   241536, a =   544, b =   444
+# SUCCESS: p =    43188, a =  -354, b =  -122
+# SUCCESS: p =   305610, a =   334, b =   915
+# ERROR: expected output :     2400, actual: p =   -30368, a =    -6, b =  -400
+# ERROR: expected output :    44448, actual: p = -2044512, a =   -48, b =  -926
+# SUCCESS: p =   -58776, a =   632, b =   -93
+# Ending test
+# SUCCESS: p =   707130, a =   729, b =   970
+# ERROR: expected output :    96348, actual: p =   104540, a =  -777, b =  -124
+# SUCCESS: p =  -259825, a =   547, b =  -475
+# SUCCESS: p =  -439920, a =   611, b =  -720
+# ERROR: expected output :  -395650, actual: p =  -403842, a =  -965, b =   410
+# SUCCESS: p =    -1736, a =    14, b =  -124
+# ERROR: expected output :   -23048, actual: p =   329208, a =  -134, b =   172
+# SUCCESS: p =   518650, a =   575, b =   902
+# ERROR: expected output :    25491, actual: p =  -136301, a =  -293, b =   -87
+# ERROR: expected output :  -411282, actual: p =  1661294, a =  -657, b =   626
+# ERROR: expected output :   578558, actual: p =  -969730, a =  -653, b =  -886
+# ERROR: expected output :   126973, actual: p = -1312771, a =  -187, b =  -679
+# ERROR: expected output :  -442035, actual: p =  1292621, a =  -517, b =   855
+# ERROR: expected output :   440607, actual: p = -1130209, a =  -681, b =  -647
+# SUCCESS: p =   562320, a =   852, b =   660
+# ERROR: expected output :   562360, actual: p = -1131336, a =  -680, b =  -827
+# ERROR: expected output :   -78584, actual: p =  -201464, a =  -188, b =   418
+# ERROR: expected output :  -287640, actual: p =  1637480, a =  -306, b =   940
+# SUCCESS: p =  -142330, a =   215, b =  -662
+# ERROR: expected output :    -3520, actual: p =    86592, a =   -80, b =    44
+# ERROR: expected output :   134064, actual: p =   263088, a =  -304, b =  -441
+# ERROR: expected output :   -69445, actual: p =   592059, a =  -215, b =   323
+# ERROR: expected output :   -91080, actual: p = -2089928, a =  -165, b =   552
+# ERROR: expected output :  -125665, actual: p =  1981727, a =  -205, b =   613
+# SUCCESS: p =   531300, a =   525, b =  1012
+# ERROR: expected output :  -250635, actual: p =  1844469, a =  -245, b =  1023
+# ERROR: expected output :   391010, actual: p = -1183902, a =  -610, b =  -641
+# ERROR: expected output :   525364, actual: p = -1137612, a =  -647, b =  -812
+# ERROR: expected output :  -829255, actual: p =   843961, a = -1015, b =   817
+# SUCCESS: p =     9568, a =   184, b =    52
+# ERROR: expected output :   184652, actual: p =  -249524, a =  -871, b =  -212
+# ERROR: expected output :   309750, actual: p = -1222154, a =  -413, b =  -750
+# ERROR: expected output :   -61336, actual: p =  1470568, a =   -82, b =   748
+# ERROR: expected output :   168168, actual: p =  -390936, a =  -616, b =  -273
+# ERROR: expected output :  -174086, actual: p =  -299014, a =  -386, b =   451
+# ERROR: expected output :   505995, actual: p = -1691509, a =  -915, b =  -553
+# SUCCESS: p =  -240889, a =   359, b =  -671
+# ERROR: expected output :  -295568, actual: p =   187760, a =  -812, b =   364
+# ERROR: expected output :  -150832, actual: p =  1555152, a =  -176, b =   857
+# ERROR: expected output :  -150419, actual: p =   498797, a =  -431, b =   349
+# SUCCESS: p =  -933793, a =   931, b = -1003
+# ERROR: expected output :  -685980, actual: p =  1409124, a =  -740, b =   927
+# SUCCESS: p =  -780780, a =   780, b = -1001
+# ERROR: expected output :   352811, actual: p = -1902037, a =  -599, b =  -589
+# SUCCESS: p =    49650, a =   331, b =   150
+# ERROR: expected output :  -145530, actual: p =   417670, a =  -990, b =   147
+# ERROR: expected output :   334400, actual: p = -1205696, a =  -440, b =  -760
+# ERROR: expected output :   -17331, actual: p =    91213, a =  -327, b =    53
+# SUCCESS: p =  -196504, a =   638, b =  -308
+# SUCCESS: p =  -100788, a =   148, b =  -681
+# ERROR: expected output :   -37797, actual: p =  1500251, a =   -43, b =   879
+# ERROR: expected output :   285498, actual: p =  -337094, a =  -933, b =  -306
+# ERROR: expected output :   -85215, actual: p =  1497889, a =  -115, b =   741
+# ERROR: expected output :  -569850, actual: p =  1003014, a =  -655, b =   870
+# ERROR: expected output :   160476, actual: p =  -191780, a =  -933, b =  -172
+# ERROR: expected output :  -727272, actual: p =  1367832, a =  -728, b =   999
+# ERROR: expected output :  -673568, actual: p =  1423584, a =  -679, b =   992
+# SUCCESS: p =    28892, a =   932, b =    31
+# ERROR: expected output :  -109050, actual: p =  1363462, a =  -150, b =   727
+# SUCCESS: p =     2800, a =    40, b =    70
+# ERROR: expected output :  -830775, actual: p =   875209, a = -1007, b =   825
+# SUCCESS: p =    -1608, a =    24, b =   -67
+# ERROR: expected output :   317112, actual: p =   472760, a =  -724, b =  -438
+# SUCCESS: p =   549335, a =   607, b =   905
+# ERROR: expected output :    50912, actual: p =  -637216, a =  -148, b =  -344
+# SUCCESS: p =   144288, a =   216, b =   668
+# ERROR: expected output :    19188, actual: p =  -382220, a =  -117, b =  -164
+# ERROR: expected output :    30031, actual: p =   -90801, a =  -509, b =   -59
+# SUCCESS: p =  -452952, a =   648, b =  -699
+# SUCCESS: p =   628000, a =  1000, b =   628
+# ERROR: expected output :  -300886, actual: p =  -431958, a =  -713, b =   422
+# SUCCESS: p =   200790, a =   485, b =   414
+# ERROR: expected output :  -489100, actual: p =  1083764, a =  -730, b =   670
+# ERROR: expected output :   167463, actual: p =  -256473, a =  -809, b =  -207
+# SUCCESS: p =   827410, a =   970, b =   853
+# SUCCESS: p =     1680, a =   420, b =     4
+# ERROR: expected output :   -33488, actual: p =  1408304, a =   -46, b =   728
+# SUCCESS: p =   295205, a =   391, b =   755
+# SUCCESS: p =    65296, a =   616, b =   106
+# ERROR: expected output :   135315, actual: p = -1406829, a =  -155, b =  -873
